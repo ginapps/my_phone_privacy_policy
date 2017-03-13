@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## My phone number Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/ginapps/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy governs your use of the software application My phone number for mobile devices that was created by ginapps. The Application allows to get phone number and operator name from SIM card(s) installed in your phone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What information does the Application obtain and how is it used?
 
-### Markdown
+Application just displays the phone number of SIM card(s) installed in your mobile device. Information is gathered only for display purpose and isn't stored anywhere. Application requires READ_PHONE_STATE permission to get the phone number of SIM card and show it for you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Does the Application collect precise real time location information of the device?
 
-```markdown
-Syntax highlighted code block
+This Application does not collect precise information about the location of your mobile device.
 
-# Header 1
-## Header 2
-### Header 3
+### Automatic Data Collection and Advertising
 
-- Bulleted
-- List
+We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application low. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device.
 
-1. Numbered
-2. List
+### What are my opt-out rights?
 
-**Bold** and _Italic_ and `Code` text
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-[Link](url) and ![Image](src)
-```
+### Changes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-### Jekyll Themes
+### Contact us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ginapps/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at ginappscore@gmail.com
